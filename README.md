@@ -12,3 +12,8 @@
 [![Bulid CI - windows](https://github.com/Bhanuprasnth/M2_Digital_Clock/actions/workflows/windows.yml/badge.svg)](https://github.com/Bhanuprasnth/M2_Digital_Clock/actions/workflows/windows.yml)
 
 [![Git Inspector](https://github.com/Bhanuprasnth/M2_Digital_Clock/actions/workflows/GitInspector.yml/badge.svg)](https://github.com/Bhanuprasnth/M2_Digital_Clock/actions/workflows/GitInspector.yml)
+
+| OFF | ON |
+| --- | --- |
+| <img src="6_Output/clock OFF.png" width="400"> | <img src="6_Output/clock ON.png" width="400"> |
+
