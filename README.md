@@ -8,3 +8,5 @@
 [![Code Quality - Cppcheck](https://github.com/Bhanuprasnth/M2_Digital_Clock/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Bhanuprasnth/M2_Digital_Clock/actions/workflows/c-cpp.yml)
 
 [![Build_CI - Linux](https://github.com/Bhanuprasnth/M2_Digital_Clock/actions/workflows/linux.yml/badge.svg)](https://github.com/Bhanuprasnth/M2_Digital_Clock/actions/workflows/linux.yml)
+
+[![Bulid CI - windows](https://github.com/Bhanuprasnth/M2_Digital_Clock/actions/workflows/windows.yml/badge.svg)](https://github.com/Bhanuprasnth/M2_Digital_Clock/actions/workflows/windows.yml)
