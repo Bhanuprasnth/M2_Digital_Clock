@@ -10,3 +10,5 @@
 [![Build_CI - Linux](https://github.com/Bhanuprasnth/M2_Digital_Clock/actions/workflows/linux.yml/badge.svg)](https://github.com/Bhanuprasnth/M2_Digital_Clock/actions/workflows/linux.yml)
 
 [![Bulid CI - windows](https://github.com/Bhanuprasnth/M2_Digital_Clock/actions/workflows/windows.yml/badge.svg)](https://github.com/Bhanuprasnth/M2_Digital_Clock/actions/workflows/windows.yml)
+
+[![Git Inspector](https://github.com/Bhanuprasnth/M2_Digital_Clock/actions/workflows/GitInspector.yml/badge.svg)](https://github.com/Bhanuprasnth/M2_Digital_Clock/actions/workflows/GitInspector.yml)
